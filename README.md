@@ -1,5 +1,6 @@
 # BlueCollar Job Search App
 
+👉 https://blue-job.herokuapp.com
 
 * System dependencies<br />
   Refer requirements.txt
@@ -19,4 +20,4 @@
   ```
     $ python -m flask run
   ```
-  Open **localhost:5000**
+  
