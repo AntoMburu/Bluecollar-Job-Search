@@ -1,5 +1,5 @@
                 /*
-    DEMO STYLE
+  mburu 2020
 */
                 
                 @import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
@@ -77,6 +77,7 @@
                     left: -250px;
                     height: 100vh;
                     z-index: 999;
+                  background-color: #8995c8;
                     background: #ffe4c4;
                     color: #fff;
                     transition: all 0.3s;
